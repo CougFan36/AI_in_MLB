@@ -76,7 +76,8 @@ While these umpires are traditionally very accurate, they are human and do make 
 In an effort to reduce the inaccuracy introduced by human empires, Major League Baseball has been experimenting with a system known as ABS.  From an article in Baseball America:
 > The automated ball-strike system (ABS), known colloquially as robo-umps, uses the Hawk-Eye tracking system to determine whether a pitch is a ball or strike and relays the call to the home plate umpire via an earpiece.
 
-The Hawk-Eye tracking system mentioned in the quote has been implemented in several sports around the globe, but most notably in tennis.  It allows players to challenge rulings on whether a ball was in or out of the field of play.  Using a system of a cameras, as well as some advanced modeling/tracking techniques, it demonstrates the exact location where the ball struck tennis court, providing an indisputable method of identifying exactly where a ball landed on a tennis court 
+The Hawk-Eye tracking system mentioned in the quote has been implemented in several sports around the globe, but most notably in tennis.  It allows players to challenge rulings on whether a ball was in or out of the field of play.  Using a system of a cameras, as well as some advanced modeling/tracking techniques, it demonstrates the exact location where the ball struck tennis court, providing an indisputable method of identifying exactly where a ball landed on a tennis court.
+ 
 ![HawkEye](images/Hawk-Eye%20Example.jpeg)
 
 This same technology is being applied to baseball, but to track where a ball crossed the strike zone.  There are two methods of implementation that are currently being tested in Minor League Baseball: the full ABS method, or the challenge system.
